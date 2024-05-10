@@ -5,10 +5,13 @@
 ### 数据集
 
 数据集选取[约翰霍普金斯大学系统科学与工程中心（CSSE）收集的COVID19数据集](https://github.com/Hannew-Kui/COVID19-analysis/assets/76563967/c4a8c75e-5b36-4cb0-a73a-7a82d8ce1262)
-\n从该数据集中选取以下三个文件:
 
-time_series_covid19_confirmed_global.csv\n
-time_series_covid19_deaths_global.csv\n
+从该数据集中选取以下三个文件:
+
+[time_series_covid19_confirmed_global.csv](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
+
+time_series_covid19_deaths_global.csv
+
 time_series_covid19_recovered_global.csv
 
 ### 项目运行
@@ -28,6 +31,10 @@ cd preprocess
 python preprocess.py \
 --      
 ```
+
+#### 数据可视化分析
+
+#### 模型运行
 
 
 ### 仓库说明
