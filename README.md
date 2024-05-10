@@ -6,9 +6,11 @@
 #### 数据预处理
 
 示例:
-'''
-python 
-'''bash
+
+```bash
+cd preprocess
+python preprocess.py 
+```
 
 
 #### 仓库说明
