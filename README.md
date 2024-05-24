@@ -42,4 +42,4 @@ pip install -r requirements.txt
 
 ### 代码仓库地址
 
-<https://github.com/Hannew-Kui/COVID9-analysis>
+<https://github.com/Hannew-Kui/COVID19-analysis>
