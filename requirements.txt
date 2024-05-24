@@ -2,4 +2,5 @@ torch
 pandas
 numpy
 tqdm
+scipy
 argparse==1.4.0
