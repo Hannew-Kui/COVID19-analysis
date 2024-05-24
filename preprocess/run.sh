@@ -1,0 +1,3 @@
+python preprocess.py -i ../data/time_series_covid19_confirmed_global.csv -ap ../data/china_confirmed.csv -dp ../data/china_daily_confimed.csv
+python preprocess.py -i ../data/time_series_covid19_deaths_global.csv -ap ../data/china_death.csv -dp ../data/china_daily_death.csv
+python preprocess.py -i ../data/time_series_covid19_recovered_global.csv -ap ../data/china_recovered.csv -dp ../data/china_daily_recovered.csv
