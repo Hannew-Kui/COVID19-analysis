@@ -1,0 +1,1 @@
+python model.py -m predict -i ../../autodl-tmp/china_daily_confirmed.csv -c checkpoint/model_checkpoint.pth -p "Hong_Kong"
